@@ -41,7 +41,7 @@
   Contributions are not accepted at the moment
 
   ## Test
-  The following link will take you to my application: <br>
+  The following link will take you to my Employee Tracker application: <br>
  <a href="https://www.loom.com/share/6ebd72cb311b4717b4e729ef2573ef20">Visit MyEmployeeTrackerApp!</a>
 
   ## Questions
